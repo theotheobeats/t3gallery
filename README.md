@@ -8,7 +8,7 @@
 - [x] actually set up a database (vercel postgres)
 - [x] attach database to UI
 - [x] add authentication (w clerk)
-- [] add image upload
+- [x] add image upload
 - [] "taint" (server-only)
 - [] use Next/Image component
 - [] error management (w/ Sentry)
